@@ -1,6 +1,6 @@
 # Docker Demo
 ## Build demo image
-```docker build -t demo```
+```docker build -t demo .```
 
 ## Check new image is created
 ```docker image ls```
